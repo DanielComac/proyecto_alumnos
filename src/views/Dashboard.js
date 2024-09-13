@@ -708,7 +708,7 @@ function Dashboard() {
                   <Col md="8" xs="7">
                     <div className="numbers">
                       <p className="card-category">ALUMNO 20</p>
-                      <CardTitle tag="p">DANIEL COMPEAN</CardTitle>
+                      <CardTitle tag="p">DANIEL COMPEAN M</CardTitle>
                       <p />
                     </div>
                   </Col>
