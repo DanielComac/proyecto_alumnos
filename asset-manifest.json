@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DanielComac/proyecto_alumnos.git/static/css/main.39304bda.css",
-    "main.js": "/DanielComac/proyecto_alumnos.git/static/js/main.6b534793.js",
+    "main.js": "/DanielComac/proyecto_alumnos.git/static/js/main.7ec454cb.js",
     "static/media/EvelynGallegos.jpg": "/DanielComac/proyecto_alumnos.git/static/media/EvelynGallegos.d0321bacc9400a94093d.jpg",
     "static/media/Roman.jpg": "/DanielComac/proyecto_alumnos.git/static/media/Roman.ed1c6eedbf92de024b86.jpg",
     "static/media/Adalid Herrera Ruiz_.jpg": "/DanielComac/proyecto_alumnos.git/static/media/Adalid Herrera Ruiz_.df9b51d7c2842bf53555.jpg",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.39304bda.css",
-    "static/js/main.6b534793.js"
+    "static/js/main.7ec454cb.js"
   ]
 }
